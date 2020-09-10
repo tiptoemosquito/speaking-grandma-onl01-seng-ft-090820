@@ -12,8 +12,8 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 def speak_to_grandma = (speak)
-else puts "HUH?! SPEAK UP, SONNY!"
-else puts "NO, NOT SINCE 1938!"
+elsif puts "HUH?! SPEAK UP, SONNY!"
+elsif puts "NO, NOT SINCE 1938!"
 elsif puts "I LOVE YOU GRANDMA!"
 else puts "I LOVE YOU TOO PUMPKIN!"
 end
