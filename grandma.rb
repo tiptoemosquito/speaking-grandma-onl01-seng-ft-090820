@@ -16,5 +16,5 @@ def speak_to_grandma(speak)
   puts "NO, NOT SINCE 1938!"
 end
 else "I LOVE YOU GRANDMA!"
-elsif "I LOVE YOU TOO PUMPKIN!"
+else "I LOVE YOU TOO PUMPKIN!"
 end
