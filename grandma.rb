@@ -11,8 +11,8 @@
 
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
-def speak_to_grandma = speak
-  if puts "HUH?! SPEAK UP, SONNY!".upcase
+def speak_to_grandma = speak.upcase
+  if puts "HUH?! SPEAK UP, SONNY!"
   elsif puts "NO, NOT SINCE 1938!"
   else puts "I LOVE YOU GRANDMA!"
   elsif puts "I LOVE YOU TOO PUMPKIN!"
